@@ -1,3 +1,8 @@
 body { background-color: #7293A0; color: white; font-family: sans-serif; }
+<<<<<<< HEAD
 h1 { color: darkbrown; text-align: center; }
 button { background: #A36C55; color: brown; border: none; padding: 1
+=======
+h1 { color: #A36C55; text-align: center; }
+button { background: #A36C55; color: white; border: none; padding: 1
+>>>>>>> parent of 76477ce (Update style.css)
